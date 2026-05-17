@@ -8,8 +8,9 @@
 		"DBDZY"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/DB-DZY/autoclicker"
+		"homepage": "https://github.com/DB-DZY/autoclicker",
+		"sources": "https://github.com/DB-DZY/autoclicker",
+		"issues": "https://github.com/DB-DZY/autoclicker/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/autoclicker/icon.png",
