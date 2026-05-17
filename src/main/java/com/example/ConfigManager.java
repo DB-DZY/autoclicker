@@ -17,8 +17,8 @@ public class ConfigManager {
             .create();
 
     // 配置数据
-    int minIntervalTicks = 4;
-    int maxIntervalTicks = 10;
+    int minIntervalTicks = 20;
+    int maxIntervalTicks = 30;
     boolean randomMode = true;
 
 
