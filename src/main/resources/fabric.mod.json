@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "autoclicker",
+	"version": "${version}",
+	"name": "AutoClicker",
+	"description": "准星瞄准自动攻击实体\n默认R键控制开关\n命令:\n/autoclicker 显示配置信息\n/autoclicker fixed 20 固定间隔模式,20tick\n/autoclicker random 20 30 随机间隔模式,随机范围20~30tick(最大范围1~200tick)",
+	"authors": [
+		"DBDZY"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/autoclicker/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.example.AutoClicker"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
