@@ -1,6 +1,6 @@
 # 自动点击器 (AutoClicker)
 
-一个基于 Fabric 开发的 Minecraft 自动点击模组。
+一个基于 Fabric 开发的可后台挂机的 Minecraft 自动攻击模组。
 
 ## 功能
 
